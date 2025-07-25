@@ -1,136 +1,107 @@
-**DGF STUDIO ENHANCED LICENSE AGREEMENT**  
-**Version 1.1 – Effective Immediately and Retroactively**
+DGF STUDIO ENHANCED LICENSE AGREEMENT  
+Version 1.1 – Effective Immediately and Retroactively
 
-This License Agreement is exclusively reserved for authorized members of DGF Studio and constitutes a binding legal instrument governing the use, modification, and distribution of software and associated materials (collectively, the “Software”).  
+This License Agreement is exclusively reserved for authorized members of DGF Studio and constitutes a binding legal instrument governing the use, modification, and distribution of software and associated materials, collectively referred to as the "Software".
 
-This License is strictly enforced under the sole discretion of DGF Studio. Any access, use, modification, or distribution of the Software by non-members, unauthorized entities, or individuals without explicit written authorization constitutes a direct violation and is subject to immediate civil and criminal prosecution.  
+This License is strictly enforced under the sole discretion of DGF Studio. Any access, use, modification, or distribution of the Software by non-members, unauthorized entities, or individuals without explicit written authorization constitutes a direct violation and is subject to immediate civil and criminal prosecution.
 
 By accessing, executing, modifying, or distributing any portion of the Software, the Licensee irrevocably acknowledges, accepts, and agrees to all terms herein, which are non-negotiable, binding, and effective immediately.
 
----
+1. DEFINITIONS
 
-### **1. DEFINITIONS**
+DGF Studio: The organization responsible for the development, governance, and control of the Software.  
+Software: Source code, binaries, documentation, tools, configuration files, updates, patches, and all derivative works.  
+Licensee: Any individual or entity that accesses, uses, modifies, or distributes the Software.  
+Member: An individual or entity formally registered in the official DGF Studio Membership Registry with active authorization status.  
+Distribution: Any act of transferring, sharing, transmitting, or making available the Software to another party.  
+Derivative Work: Any modification, adaptation, extension, integration, or compilation based in whole or in part on the original Software.
 
-- **"DGF Studio"**: The organization responsible for the development, governance, and control of the Software.  
-- **"Software"**: Source code, binaries, documentation, tools, configuration files, updates, patches, and all derivative works.  
-- **"Licensee"**: Any individual or entity that accesses, uses, modifies, or distributes the Software.  
-- **"Member"**: An individual or entity formally registered in the official DGF Studio Membership Registry with active authorization status.  
-- **"Distribution"**: Any act of transferring, sharing, transmitting, or making available the Software to another party.  
-- **"Derivative Work"**: Any modification, adaptation, extension, integration, or compilation based in whole or in part on the original Software.
+2. GRANTED RIGHTS (SUBJECT TO STRICT CONDITIONS)
 
----
+The Licensee is granted a limited, revocable, non-exclusive, non-transferable right to use and modify the Software solely for internal development purposes.
 
-### **2. GRANTED RIGHTS (SUBJECT TO STRICT CONDITIONS)**
+2.A. Source Code Modification  
+Modifications are permitted only for internal development. All modifications must be fully documented in version-controlled records or internal logs. The original DGF Studio copyright notice must remain unaltered, intact, and clearly visible in all files and derivative works.
 
-The Licensee is granted a limited, revocable, non-exclusive, non-transferable right to use and modify the Software solely for **internal development purposes**.
-
-#### **2.A. Source Code Modification**  
-- Modifications permitted only for internal development.  
-- All modifications must be fully documented in version-controlled records or internal logs.  
-- The original DGF Studio copyright notice must remain unaltered, intact, and clearly visible in all files and derivative works.
-
-#### **2.B. Distribution Restrictions**  
-Distribution is **expressly prohibited** unless **all** of the following are satisfied:  
-1. Recipient is a verified DGF Studio Member with active authorization status;  
-2. Full text of this License Agreement is included unchanged with every copy;  
-3. No additional restrictions or licenses are imposed on the recipient;  
-4. DGF Studio is notified in writing within seven (7) calendar days, including:  
- - Recipient identification;  
- - Version and components shared;  
- - Purpose and method of distribution.  
-
+2.B. Distribution Restrictions  
+Distribution is expressly prohibited unless all of the following are satisfied:  
+Recipient is a verified DGF Studio Member with active authorization status.  
+The full text of this License Agreement is included unchanged with every copy.  
+No additional restrictions or licenses are imposed on the recipient.  
+DGF Studio is notified in writing within seven (7) calendar days of distribution, including recipient identification, version and components shared, purpose, and method of distribution.  
 Failure to meet any condition invalidates the distribution and constitutes a material breach.
 
----
+3. ABSOLUTE PROHIBITIONS (ZERO TOLERANCE)
 
-### **3. ABSOLUTE PROHIBITIONS (ZERO TOLERANCE)**
+The following actions are strictly prohibited and constitute material breaches:
 
-The following actions are **strictly prohibited** and constitute **material breaches**:
-
-#### **3.A. Commercial Use**  
+3.A. Commercial Use  
 Monetization, use in revenue-generating activities, incorporation into paid services, or indirect commercial exploitation is forbidden.
 
-#### **3.B. Financial Gain**  
+3.B. Financial Gain  
 Selling, reselling, licensing for fee, renting, charging for access, support, or bundling for profit is prohibited.
 
-#### **3.C. Unauthorized Access or Use**  
+3.C. Unauthorized Access or Use  
 Use, execution, or distribution by non-Members is illegal. Membership must be validated annually. Lapsed status results in immediate loss of rights.
 
-#### **3.D. License Tampering**  
+3.D. License Tampering  
 Modifying, removing, or obscuring this License text, or creating sub-licenses, is void ab initio and triggers automatic termination.
 
----
+4. COMPLIANCE AND ENFORCEMENT MECHANISMS
 
-### **4. COMPLIANCE & ENFORCEMENT MECHANISMS**
-
-#### **4.A. Audit Rights**  
+4.A. Audit Rights  
 DGF Studio may conduct audits of systems, records, and repositories at any time, with or without notice. Full cooperation is required. Failure to cooperate results in automatic termination.
 
-#### **4.B. Quarterly Compliance Reporting**  
-Licensees must submit detailed usage reports every quarter within fifteen (15) days of the period’s end, including:  
-- Modifications made;  
-- Versions in use or distributed;  
-- Recipient identities and dates;  
-- Internal usage scope.  
-Late submission constitutes a breach.
+4.B. Quarterly Compliance Reporting  
+Licensees must submit detailed usage reports every quarter within fifteen (15) days of the period’s end, including modifications made, versions in use or distributed, recipient identities, and internal usage scope. Late submission constitutes a breach.
 
-#### **4.C. Mandatory Breach Reporting**  
+4.C. Mandatory Breach Reporting  
 Any suspected violation must be reported immediately to the DGF Studio Legal Authority. Concealment or delay is punishable by termination and liability.
 
-#### **4.D. Remote Deactivation Capability**  
+4.D. Remote Deactivation Capability  
 DGF Studio may remotely disable or deactivate the Software upon reasonable suspicion of breach, without prior warning. Reactivation requires formal remediation and written authorization.
 
----
+5. TERMINATION AND CONSEQUENCES
 
-### **5. TERMINATION & CONSEQUENCES**
-
-#### **5.A. Automatic Termination**  
+5.A. Automatic Termination  
 This License terminates automatically and immediately upon any breach of Sections 2, 3, or 4. No cure period applies.
 
-#### **5.B. Post-Termination Obligations**  
+5.B. Post-Termination Obligations  
 Upon termination, the Licensee must:  
-1. Immediately cease all use and access;  
-2. Permanently destroy all copies, including backups and modified versions;  
-3. Submit a signed Certificate of Destruction by a senior officer within fourteen (14) days.
+Cease all use and access immediately.  
+Permanently destroy all copies, including backups and modified versions.  
+Submit a signed Certificate of Destruction by a senior officer within fourteen (14) days.
 
-#### **5.C. Legal Remedies**  
+5.C. Legal Remedies  
 DGF Studio may pursue all available remedies, including statutory damages, injunctive relief, recovery of legal costs, and criminal referral.
 
----
+6. GENERAL PROVISIONS
 
-### **6. GENERAL PROVISIONS**
-
-#### **6.A. Governing Law & Jurisdiction**  
+6.A. Governing Law and Jurisdiction  
 This Agreement is governed by U.S. federal law. Disputes shall be resolved exclusively in the federal courts of San Francisco, California. Licensee consents to jurisdiction.
 
-#### **6.B. Membership Definition**  
+6.B. Membership Definition  
 Membership is personal, non-transferable, and valid only when listed in the official DGF Studio Membership Registry. Revocable at any time.
 
-#### **6.C. Disclaimer of Warranties**  
+6.C. Disclaimer of Warranties  
 THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. DGF STUDIO DISCLAIMS ALL LIABILITY FOR ANY DAMAGES ARISING FROM USE.
 
-#### **6.D. Entire Agreement; No Implied Licenses**  
+6.D. Entire Agreement; No Implied Licenses  
 This License is the complete and exclusive agreement. No implied licenses are granted. All rights not expressly stated are reserved by DGF Studio.
 
-#### **6.E. Amendments**  
+6.E. Amendments  
 DGF Studio may amend this License at any time. Amendments become binding upon official publication through internal channels. Continued use constitutes acceptance.
 
----
-
-### **7. ANTI-EVASION CLAUSE**
+7. ANTI-EVASION CLAUSE
 
 Any attempt to circumvent, bypass, or evade the terms of this License — including through technical means, obfuscation, proxies, or jurisdictional avoidance — is expressly prohibited and will result in permanent access revocation, enhanced penalties, and criminal prosecution.
 
----
+8. FINAL PROVISIONS
 
-### **8. FINAL PROVISIONS**
+This License applies retroactively to all prior distributions.  
+Unauthorized use — even if inadvertent — is strictly prohibited and punishable by law.  
+DGF Studio retains sole authority to interpret, enforce, and administer this License.  
+Violators will be prosecuted to the fullest extent permitted by law.
 
-- This License applies retroactively to all prior distributions.  
-- Unauthorized use — even if inadvertent — is strictly prohibited and punishable by law.  
-- DGF Studio retains sole authority to interpret, enforce, and administer this License.  
-- **Violators will be prosecuted to the fullest extent permitted by law.**
-
----
-
-**END OF AGREEMENT**  
-**DGF STUDIO — AUTHORITY. INTEGRITY. CONTROL.**
+END OF AGREEMENT  
+DGF STUDIO — AUTHORITY. INTEGRITY. CONTROL.
